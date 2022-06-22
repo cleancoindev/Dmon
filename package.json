@@ -9,7 +9,7 @@
   "dependencies": {
     "@opengsn/gsn": "^2.1.0",
     "@openzeppelin/contracts": "^3.4.0",
-    "@truffle/hdwallet-provider": "^1.2.2",
+    "@truffle/hdwallet-provider": "^1.6.0",
     "node-env-file": "^0.1.8"
   },
   "devDependencies": {},
